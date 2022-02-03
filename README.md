@@ -1,0 +1,2 @@
+#DWCのRuby演習です
+Rubyの勉強
